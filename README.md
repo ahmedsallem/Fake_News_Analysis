@@ -17,3 +17,31 @@ identify fake posts.
 In this project, A large dataset for fake news detection using social media news and its related comments from Reddit.
 This data is provided from kaggle website which is available on (https://www.kaggle.com/datasets/deepnews/fakenewsreddit-comments).
 Data is collected from Reddit which is a social news website.
+
+
+# models that used:
+
+## Linear Regression Models:
+
+Baseline model
+
+Linear Regression
+
+## Nonlinear Regression Models:
+
+K-Nearest Neighbor Regression
+
+Decision Tree Regression
+
+Random Forest Regression
+
+Gradient Boosting Regression
+
+## Classification Models:
+
+LogisticRegression
+
+MultinomialNBModel
+
+PassiveAggressiveClassifier
+
